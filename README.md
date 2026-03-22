@@ -41,6 +41,5 @@ TJB 기업 협업으로 진행된 팀 프로젝트입니다.
 
 📍 PICOPET — Innovation Product Development 전시회 (2023)
 
-<img width="354" height="812" alt="image" src="https://github.com/user-attachments/assets/56930150-fbda-4074-8172-0066666bd700" /> ![12321321](https://github.com/user-attachments/assets/196da58f-0535-4667-9941-54cb947a3535)
-
+<img width="354" height="812" alt="image" src="https://github.com/user-attachments/assets/56930150-fbda-4074-8172-0066666bd700" /> ![1231242141](https://github.com/user-attachments/assets/8d72a26f-fafe-439f-9e26-0711d982b076)
 
