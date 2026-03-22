@@ -1,4 +1,4 @@
-# 🐾 wag — 반려견 심박수 모니터링 앱
+![KakaoTalk_20260323_015605504_01](https://github.com/user-attachments/assets/262023d2-b439-49d1-b79b-957f187707de)# 🐾 wag — 반려견 심박수 모니터링 앱
 
 > 반려견의 심박수를 실시간으로 확인하고 건강을 관리하는 IoT 앱
 
@@ -31,7 +31,6 @@ TJB 기업 협업으로 진행된 팀 프로젝트입니다.
 ---
 
 ## 담당 역할
-
 - Flutter 앱 전체 개발
 - Arduino 기반 심박수 센서 하드웨어 개발
 - BLE 통신 연동
@@ -43,6 +42,7 @@ TJB 기업 협업으로 진행된 팀 프로젝트입니다.
 📍 PICOPET — Innovation Product Development 전시회 (2023)
 
 <img width="354" height="812" alt="image" src="https://github.com/user-attachments/assets/56930150-fbda-4074-8172-0066666bd700" />
-![KakaoTalk_20260323_015605504_01](https://github.com/user-attachments/assets/a0c0d3a2-a266-4c93-970e-57832d18a63e)
+![KakaoTalk_20260323_015605504_01](https://github.com/user-attachments/assets/1eb106f3-1822-47c7-bb45-4862aca7fb7e)
+
 
 
